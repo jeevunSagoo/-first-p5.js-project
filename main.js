@@ -33,7 +33,7 @@ function draw() {
     fill("green");
     stroke("black");
     rect(50,400,410,30);
-    image(video, 0, 0, 110, 110);
+    image(video, 150, 125, 210, 210);
 }
 
 function take_snapshot() {
